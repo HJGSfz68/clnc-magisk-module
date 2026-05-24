@@ -158,6 +158,7 @@
 
 # Compressed files
 *.zip
+!clnc_v5_final_20260524_193833.zip
 *.rar
 *.7z
 *.tar
